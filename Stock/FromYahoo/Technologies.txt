@@ -1,0 +1,103 @@
+ACT Symbol	Security Name	Quandl
+AMX	America Movil, S.A.B. de C.V. American Depository Receipt Series L	EOD/AMX
+APH	Amphenol Corporation Common Stock	EOD/APH
+BITA	Bitauto Holdings Limited American Depositary Shares (each representing one ordinary share)	EOD/BITA
+CHL	China Mobile Limited Common Stock	EOD/CHL
+CRM	Salesforce.com Inc Common Stock	EOD/CRM
+CTL	CenturyLink, Inc. Common Stock	EOD/CTL
+DNB	Dun & Bradstreet Corporation (The) Common Stock	EOD/DNB
+FIS	Fidelity National Information Services, Inc. Common Stock	EOD/FIS
+GDDY	GoDaddy Inc. Class A Common Stock	EOD/GDDY
+GIB	CGI Group, Inc. Common Stock	EOD/GIB
+GLW	Corning Incorporated Common Stock	EOD/GLW
+GSAT	Globalstar, Inc. Common Stock	EOD/GSAT
+HPQ	HP Inc. Common Stock	EOD/HPQ
+HUBS	HubSpot, Inc. Common Stock	EOD/HUBS
+IBM	International Business Machines Corporation Common Stock	EOD/IBM
+INFY	Infosys Limited American Depositary Shares	EOD/INFY
+JBL	Jabil Inc. Common Stock	EOD/JBL
+JNPR	Juniper Networks, Inc. Common Stock	EOD/JNPR
+LDOS	Leidos Holdings, Inc. Common Stock	EOD/LDOS
+MSI	Motorola Solutions, Inc. Common Stock	EOD/MSI
+MXL	MaxLinear, Inc. Common Stock	EOD/MXL
+NCR	NCR Corporation Common Stock	EOD/NCR
+NEWR	New Relic, Inc. Common Stock	EOD/NEWR
+NLSN	Nielsen N.V. Ordinary Shares	EOD/NLSN
+NOK	Nokia Corporation Sponsored American Depositary Shares	EOD/NOK
+RENN	Renren Inc. American Depositary Shares, each representing fifteen Class A ordinary shares	EOD/RENN
+RHT	Red Hat, Inc. Common Stock	EOD/RHT
+S	Sprint Corporation Common Stock	EOD/S
+SHOP	Shopify Inc. Class A Subordinate Voting Shares	EOD/SHOP
+SNAP	Snap Inc. Class A Common Stock	EOD/SNAP
+SPOT	Spotify Technology S.A. Ordinary Shares	EOD/SPOT
+ST	Sensata Technologies Holding plc Ordinary Shares	EOD/ST
+T	AT&T Inc.	EOD/T
+TEF	Telefonica SA Common Stock	EOD/TEF
+TEO	Telecom Argentina SA	EOD/TEO
+TWTR	Twitter, Inc. Common Stock	EOD/TWTR
+VMW	Vmware, Inc. Common stock, Class A	EOD/VMW
+VZ	Verizon Communications Inc. Common Stock	EOD/VZ
+WP	Worldpay, Inc. Class A Common Stock	EOD/WP
+WUBA	58.com Inc. American Depositary Shares, each representing 2 Class A Ordinary Shares	EOD/WUBA
+XRX	Xerox Corporation Common Stock	EOD/XRX
+YELP	Yelp Inc. Common Stock	EOD/YELP
+ZEN	Zendesk, Inc. Common Stock	EOD/ZEN
+AABA	Altaba Inc. - Common Stock	EOD/AABA
+ADBE	Adobe Systems Incorporated - Common Stock	EOD/ADBE
+ADP	Automatic Data Processing, Inc. - Common Stock	EOD/ADP
+ADSK	Autodesk, Inc. - Common Stock	EOD/ADSK
+AKAM	Akamai Technologies, Inc. - Common Stock	EOD/AKAM
+AMAT	Applied Materials, Inc. - Common Stock	EOD/AMAT
+AMD	Advanced Micro Devices, Inc. - Common Stock	EOD/AMD
+ANSS	ANSYS, Inc. - Common Stock	EOD/ANSS
+ARRS	ARRIS International plc - Ordinary Shares	EOD/ARRS
+ATVI	Activision Blizzard, Inc - Common Stock	EOD/ATVI
+BIDU	Baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share	EOD/BIDU
+CDW	CDW Corporation - Common Stock	EOD/CDW
+CERN	Cerner Corporation - Common Stock	EOD/CERN
+CHKP	Check Point Software Technologies Ltd. - Ordinary Shares	EOD/CHKP
+COMM	CommScope Holding Company, Inc. - Common Stock	EOD/COMM
+CSCO	Cisco Systems, Inc. - Common Stock	EOD/CSCO
+CTSH	Cognizant Technology Solutions Corporation - Class A Common Stock	EOD/CTSH
+CYBR	CyberArk Software Ltd. - Ordinary Shares	EOD/CYBR
+DBX	Dropbox, Inc. - Class A Common Stock	EOD/DBX
+EA	Electronic Arts Inc. - Common Stock	EOD/EA
+FB	Facebook, Inc. - Class A Common Stock	EOD/FB
+FEYE	FireEye, Inc. - Common Stock	EOD/FEYE
+FSLR	First Solar, Inc. - Common Stock	EOD/FSLR
+FTR	Frontier Communications Corporation - Common Stock	EOD/FTR
+GRMN	Garmin Ltd. - Common Stock	EOD/GRMN
+IMPV	Imperva, Inc. - Common Stock	EOD/IMPV
+INTC	Intel Corporation - Common Stock	EOD/INTC
+INTU	Intuit Inc. - Common Stock	EOD/INTU
+IPGP	IPG Photonics Corporation - Common Stock	EOD/IPGP
+LRCX	Lam Research Corporation - Common Stock	EOD/LRCX
+MOMO	Momo Inc. - American Depositary Shares	EOD/MOMO
+MSFT	Microsoft Corporation - Common Stock	EOD/MSFT
+MU	Micron Technology, Inc. - Common Stock	EOD/MU
+NATI	National Instruments Corporation - Common Stock	EOD/NATI
+NTAP	NetApp, Inc. - Common Stock	EOD/NTAP
+NUAN	Nuance Communications, Inc. - Common Stock	EOD/NUAN
+NVDA	NVIDIA Corporation - Common Stock	EOD/NVDA
+NXPI	NXP Semiconductors N.V. - Common Stock	EOD/NXPI
+POWI	Power Integrations, Inc. - Common Stock	EOD/POWI
+PYPL	PayPal Holdings, Inc. - Common Stock	EOD/PYPL
+QCOM	QUALCOMM Incorporated - Common Stock	EOD/QCOM
+SANM	Sanmina Corporation - Common Stock	EOD/SANM
+SBAC	SBA Communications Corporation - Class A Common Stock	EOD/SBAC
+SWKS	Skyworks Solutions, Inc. - Common Stock	EOD/SWKS
+SYMC	Symantec Corporation - Common Stock	EOD/SYMC
+SYNA	Synaptics Incorporated - Common Stock	EOD/SYNA
+SYNT	Syntel, Inc. - Common Stock	EOD/SYNT
+TRIP	TripAdvisor, Inc. - Common Stock	EOD/TRIP
+TRMB	Trimble Inc. - Common Stock	EOD/TRMB
+TTWO	Take-Two Interactive Software, Inc. - Common Stock	EOD/TTWO
+TXN	Texas Instruments Incorporated - Common Stock	EOD/TXN
+UBNT	Ubiquiti Networks, Inc. - Common Stock	EOD/UBNT
+VIAV	Viavi Solutions Inc. - Common Stock	EOD/VIAV
+VOD	Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares	EOD/VOD
+VRSN	VeriSign, Inc. - Common Stock	EOD/VRSN
+WDC	Western Digital Corporation - Common Stock	EOD/WDC
+WIX	Wix.com Ltd. - Ordinary Shares	EOD/WIX
+YNDX	Yandex N.V. - Class A Ordinary Shares	EOD/YNDX
+ZNGA	Zynga Inc. - Class A Common Stock	EOD/ZNGA
